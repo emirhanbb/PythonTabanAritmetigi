@@ -7,3 +7,5 @@ Sonrasında seçmiş olduğumuz tabandaki sayıyı giriyoruz.
 
 Son olarak girilen sayının hangi tabana dönüştürüleceğini menüden seçiyoruz ve program bize çıktı veriyor. 
 
+
+<color="red">Not: Program fonksiyon ve class kullanılarak yazılmıştır.</color> 
